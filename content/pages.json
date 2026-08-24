@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "ASV Contractors",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-24T02:00:13.635Z",
+    "status": "published",
+    "updatedAt": "2026-08-24T02:00:35.666Z",
     "updatedBy": "joshua",
     "createdAt": "2026-08-24T02:00:13.635Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": true
   }
 ]
