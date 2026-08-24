@@ -1,22 +1,5 @@
 [
   {
-    "id": "pg-1",
-    "path": "/home-2",
-    "type": "page",
-    "title": "Home",
-    "seoTitle": "ASV Contractors | Building & Construction in Sydney",
-    "seoDescription": "ASV Contractors is a family-owned construction company delivering high-quality building solutions across government, commercial, residential and industrial projects in Sydney and the Hunter.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "updatedAt": "2026-08-24T04:38:59.511Z",
-    "updatedBy": "derek",
-    "createdAt": "2026-08-24T03:17:08.892Z",
-    "createdBy": "joshua",
-    "isHome": false
-  },
-  {
     "id": "pg-2",
     "path": "/",
     "type": "page",
