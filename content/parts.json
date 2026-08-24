@@ -32,7 +32,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-08-24T04:36:42.793Z"
+    "updatedAt": "2026-08-24T04:40:17.712Z",
+    "deleted": true
   },
   {
     "id": "footer-2",
