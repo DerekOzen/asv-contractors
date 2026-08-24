@@ -115,7 +115,7 @@
   },
   {
     "id": "pg-9",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "ASV Contractors | Building & Construction in Sydney",
@@ -123,10 +123,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
-    "updatedAt": "2026-08-24T07:32:29.814Z",
+    "status": "published",
+    "updatedAt": "2026-08-24T07:32:43.690Z",
     "updatedBy": "derek",
     "createdAt": "2026-08-24T07:32:29.814Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
