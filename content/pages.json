@@ -31,5 +31,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-08-24T04:29:23.379Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-3",
+    "path": "/rygfgfgfg",
+    "type": "page",
+    "title": "rygfgfgfg",
+    "seoTitle": "rygfgfgfg",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-08-24T04:32:43.574Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-24T04:32:43.574Z",
+    "createdBy": "derek"
   }
 ]
