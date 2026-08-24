@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "ASV Contractors",
+    "seoDescription": "ASV Contractors is a family-owned construction company delivering high-quality building solutions across government, commercial, residential and industrial projects in Sydney.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-24T02:00:13.635Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-08-24T02:00:13.635Z",
+    "createdBy": "joshua"
+  }
+]
