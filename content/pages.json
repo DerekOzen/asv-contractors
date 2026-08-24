@@ -15,5 +15,21 @@
     "createdAt": "2026-08-24T02:00:13.635Z",
     "createdBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/about",
+    "type": "page",
+    "title": "About",
+    "seoTitle": "About ASV Contractors | Family-Owned Builders Sydney",
+    "seoDescription": "Learn about ASV Contractors, a family-owned construction company delivering maintenance, commercial, residential and government projects across Sydney and the Hunter.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-24T02:55:44.332Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-08-24T02:55:44.332Z",
+    "createdBy": "joshua"
   }
 ]
