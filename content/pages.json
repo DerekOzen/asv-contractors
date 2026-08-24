@@ -73,11 +73,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-08-24T07:00:34.712Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-24T07:00:34.712Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-24T07:21:12.728Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-6",
