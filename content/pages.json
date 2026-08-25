@@ -90,11 +90,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-08-24T23:42:33.262Z",
     "createdBy": "derek",
-    "updatedAt": "2026-08-24T23:42:33.262Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-08-25T09:52:34.378Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-7",
