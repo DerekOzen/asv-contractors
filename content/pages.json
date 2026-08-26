@@ -160,5 +160,21 @@
     "updatedBy": "joshua",
     "createdAt": "2026-08-26T03:30:34.132Z",
     "createdBy": "joshua"
+  },
+  {
+    "id": "pg-11",
+    "path": "/terms-and-conditions",
+    "type": "page",
+    "title": "Terms and Conditions",
+    "seoTitle": "Terms & Conditions | ASV Contractors",
+    "seoDescription": "The terms and conditions for using the ASV Contractors website.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-26T03:31:56.455Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-08-26T03:31:56.455Z",
+    "createdBy": "joshua"
   }
 ]
