@@ -144,5 +144,21 @@
     "createdAt": "2026-08-26T03:22:54.558Z",
     "createdBy": "joshua",
     "isHome": false
+  },
+  {
+    "id": "pg-10",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Privacy Policy",
+    "seoTitle": "Privacy Policy | ASV Contractors",
+    "seoDescription": "How ASV Contractors collects, uses and protects your personal information, in line with the Australian Privacy Principles.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-26T03:30:34.132Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-08-26T03:30:34.132Z",
+    "createdBy": "joshua"
   }
 ]
