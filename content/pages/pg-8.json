@@ -33,7 +33,7 @@
       "props": {
         "label": "A simple, reliable process",
         "role": "section",
-        "html": "<section class=\"section\"><div class=\"wrap\"><div class=\"sec-head\"><div class=\"olabel rv\"><span class=\"num\">03</span><span class=\"bar\"></span> How It Works</div><h2 class=\"rv d1\">A simple, <em>reliable</em> process</h2></div><div class=\"steps rv\"><div class=\"step on\"><div class=\"sn\">01</div><h3>Consult</h3><p>Scope, site and requirements reviewed with you.</p></div><div class=\"step\"><div class=\"sn\">02</div><h3>Quote</h3><p>Clear, competitive fixed quote and program.</p></div><div class=\"step\"><div class=\"sn\">03</div><h3>Deliver</h3><p>Safe, tidy delivery with clear communication.</p></div><div class=\"step\"><div class=\"sn\">04</div><h3>Handover</h3><p>On time, on budget, to a high standard.</p></div></div></div></section>"
+        "html": "<section class=\"section\"><div class=\"wrap\"><div class=\"sec-head\" style=\"\"><div class=\"olabel rv\"><span class=\"num\">03</span><span class=\"bar\"></span> How It Works</div><h2 class=\"rv d1\">A simple, <em>reliable</em> process</h2></div><div class=\"steps rv\"><div class=\"step on\"><div class=\"sn\">01</div><h3>Consult</h3><p>Scope, site and requirements reviewed with you.</p></div><div class=\"step\"><div class=\"sn\">02</div><h3>Quote</h3><p>clear, competitive quotation and project program</p></div><div class=\"step\"><div class=\"sn\">03</div><h3>Deliver</h3><p>Safe, tidy delivery with clear communication.</p></div><div class=\"step\"><div class=\"sn\">04</div><h3>Handover</h3><p>On time, on budget, to a high standard.</p></div></div></div></section>"
       }
     },
     {
