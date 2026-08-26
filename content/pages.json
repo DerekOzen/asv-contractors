@@ -169,10 +169,10 @@
     "seoTitle": "Terms & Conditions | ASV Contractors",
     "seoDescription": "The terms and conditions for using the ASV Contractors website.",
     "layout": "mockup",
-    "headerPartId": null,
+    "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-08-26T03:31:56.455Z",
+    "status": "published",
+    "updatedAt": "2026-08-26T03:32:26.849Z",
     "updatedBy": "joshua",
     "createdAt": "2026-08-26T03:31:56.455Z",
     "createdBy": "joshua"
