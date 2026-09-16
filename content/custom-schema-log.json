@@ -1,0 +1,51 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mu3f80lx-iamu",
+      "at": "2026-09-16T01:27:26.997Z",
+      "count": 10,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-87640007"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-85CF6F8F"
+        },
+        {
+          "path": "/commercial",
+          "newRecordId": "SCHEMA-3F0526CA"
+        },
+        {
+          "path": "/residential",
+          "newRecordId": "SCHEMA-807FC674"
+        },
+        {
+          "path": "/government",
+          "newRecordId": "SCHEMA-EF45CA9F"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-BFA1D874"
+        },
+        {
+          "path": "/projects",
+          "newRecordId": "SCHEMA-D145FCA6"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-AFC91A6D"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-C1C672CE"
+        },
+        {
+          "path": "/terms-and-conditions",
+          "newRecordId": "SCHEMA-D99F742C"
+        }
+      ]
+    }
+  ]
+}
