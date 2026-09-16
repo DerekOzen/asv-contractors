@@ -12,7 +12,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#office-seven-hills\",\"@type\":\"GeneralContractor\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Seven Hills\",\"addressRegion\":\"NSW\",\"postalCode\":\"2147\",\"streetAddress\":\"36/6 Abbott Road\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"email\":\"asv@asvcontractors.com.au\",\"name\":\"ASV Contractors (Seven Hills)\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"07:00\"}],\"parentOrganization\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#office-beresfield\",\"@type\":\"GeneralContractor\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Beresfield\",\"addressRegion\":\"NSW\",\"postalCode\":\"2322\",\"streetAddress\":\"18/13 Balook Drive\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"email\":\"asv@asvcontractors.com.au\",\"name\":\"ASV Contractors (Beresfield)\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"07:00\"}],\"parentOrganization\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"name\":\"ASV Contractors | Building & Construction in Sydney\",\"url\":\"https://asvcontractors.com.au/\"}]}",
       "hash": "52ccc29549fe7386a95e18fec7593fe38c48b5f8041da3ccfd0506a3d68fcc14",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -48,9 +48,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:26.757Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:38.489Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-85CF6F8F",
@@ -61,7 +61,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/about/#webpage\",\"@type\":\"AboutPage\",\"about\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/about/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"name\":\"About ASV Contractors\",\"url\":\"https://asvcontractors.com.au/about/\"},{\"@id\":\"https://asvcontractors.com.au/about/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/about/\",\"name\":\"About Us\",\"position\":2}]}]}",
       "hash": "569b29cc2d0a509dbe875833526c252f59786a9637a13c7101b37b01e4ff4c1f",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -97,9 +97,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:26.793Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:38.726Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-3F0526CA",
@@ -110,7 +110,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/commercial/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Commercial fit-outs, refurbishments, upgrades and strata maintenance for offices, retail and workplaces, delivered on occupied sites with minimal disruption.\",\"name\":\"Commercial Construction & Fit-Outs\",\"provider\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"serviceType\":\"Commercial construction\"},{\"@id\":\"https://asvcontractors.com.au/commercial/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/commercial/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://asvcontractors.com.au/commercial/#service\"},\"name\":\"Commercial Projects\",\"url\":\"https://asvcontractors.com.au/commercial/\"},{\"@id\":\"https://asvcontractors.com.au/commercial/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/commercial/\",\"name\":\"Commercial Projects\",\"position\":2}]}]}",
       "hash": "8a02e47defc6e98125f5901b3e642d510305e4b4359fb9502d588018a9a81b6a",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -146,9 +146,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:26.829Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:38.968Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-807FC674",
@@ -159,7 +159,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/residential/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"New home construction, renovations and extensions, and internal fit-outs and joinery, managed end to end with quality and safety at the core.\",\"name\":\"Residential Construction & Renovations\",\"provider\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"serviceType\":\"Residential construction\"},{\"@id\":\"https://asvcontractors.com.au/residential/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/residential/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://asvcontractors.com.au/residential/#service\"},\"name\":\"Residential Projects\",\"url\":\"https://asvcontractors.com.au/residential/\"},{\"@id\":\"https://asvcontractors.com.au/residential/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/residential/\",\"name\":\"Residential Projects\",\"position\":2}]}]}",
       "hash": "043d0308bb22aa9d9334093804e1d02cb5e11fe8cc7e803f066df19e0d6af21e",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -195,9 +195,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:26.864Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:39.155Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-EF45CA9F",
@@ -208,7 +208,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/government/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Licensed and insured, WHS-focused construction for government and public sector projects, including asbestos removal, remedial works, heritage-sensitive construction and tender-ready documentation, delivered on live occupied sites.\",\"name\":\"Government & Public Sector Construction\",\"provider\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"serviceType\":\"Government construction\"},{\"@id\":\"https://asvcontractors.com.au/government/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/government/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://asvcontractors.com.au/government/#service\"},\"name\":\"Government & Public Sector\",\"url\":\"https://asvcontractors.com.au/government/\"},{\"@id\":\"https://asvcontractors.com.au/government/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/government/\",\"name\":\"Government Projects\",\"position\":2}]}]}",
       "hash": "fd56ff105e0c1e1d58f7e6fe60150960a54b8ef17bf917ebd07d750b9c7b8846",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -244,9 +244,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:26.896Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:39.366Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-BFA1D874",
@@ -257,7 +257,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/services/#list\",\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"name\":\"Commercial Projects\",\"position\":1,\"url\":\"https://asvcontractors.com.au/commercial/\"},{\"@type\":\"ListItem\",\"name\":\"Residential Projects\",\"position\":2,\"url\":\"https://asvcontractors.com.au/residential/\"},{\"@type\":\"ListItem\",\"name\":\"Government Projects\",\"position\":3,\"url\":\"https://asvcontractors.com.au/government/\"}]},{\"@id\":\"https://asvcontractors.com.au/services/#webpage\",\"@type\":\"CollectionPage\",\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/services/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://asvcontractors.com.au/services/#list\"},\"name\":\"Our Services\",\"url\":\"https://asvcontractors.com.au/services/\"},{\"@id\":\"https://asvcontractors.com.au/services/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/services/\",\"name\":\"Services\",\"position\":2}]}]}",
       "hash": "588a37cc0cddcd5b25527418213ff69d136bad07989e6180407fb68a5d043458",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -293,9 +293,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:26.932Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:39.623Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D145FCA6",
@@ -306,7 +306,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/projects/#webpage\",\"@type\":\"CollectionPage\",\"about\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/projects/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"name\":\"Our Projects\",\"url\":\"https://asvcontractors.com.au/projects/\"},{\"@id\":\"https://asvcontractors.com.au/projects/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/projects/\",\"name\":\"Projects\",\"position\":2}]}]}",
       "hash": "e584509f6461d6f0434b2d3aaf72010fe9b4a5c8204e6b3c63ac9b845f44bb0c",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -342,9 +342,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:26.974Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:39.841Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-AFC91A6D",
@@ -355,7 +355,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#office-seven-hills\",\"@type\":\"GeneralContractor\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Seven Hills\",\"addressRegion\":\"NSW\",\"postalCode\":\"2147\",\"streetAddress\":\"36/6 Abbott Road\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"email\":\"asv@asvcontractors.com.au\",\"name\":\"ASV Contractors (Seven Hills)\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"07:00\"}],\"parentOrganization\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#office-beresfield\",\"@type\":\"GeneralContractor\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Beresfield\",\"addressRegion\":\"NSW\",\"postalCode\":\"2322\",\"streetAddress\":\"18/13 Balook Drive\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"email\":\"asv@asvcontractors.com.au\",\"name\":\"ASV Contractors (Beresfield)\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"07:00\"}],\"parentOrganization\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/contact/#webpage\",\"@type\":\"ContactPage\",\"about\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/contact/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"name\":\"Contact ASV Contractors\",\"url\":\"https://asvcontractors.com.au/contact/\"},{\"@id\":\"https://asvcontractors.com.au/contact/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/contact/\",\"name\":\"Contact Us\",\"position\":2}]}]}",
       "hash": "d740eff0ad67c4e1c6d732355b401857bf6b94b821f21386c681647663d5afa6",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -391,9 +391,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:27.011Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:40.110Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-C1C672CE",
@@ -404,7 +404,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/privacy-policy/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/privacy-policy/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"name\":\"Privacy Policy\",\"url\":\"https://asvcontractors.com.au/privacy-policy/\"},{\"@id\":\"https://asvcontractors.com.au/privacy-policy/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/privacy-policy/\",\"name\":\"Privacy Policy\",\"position\":2}]}]}",
       "hash": "3d46ca92ef94bb24c5b77bd6244b7784e271ff97b98be783182fab597405d875",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -440,9 +440,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:27.051Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:40.360Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D99F742C",
@@ -453,7 +453,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://asvcontractors.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"ASV Contractors\",\"publisher\":{\"@id\":\"https://asvcontractors.com.au/#organization\"},\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sydney\"},{\"@type\":\"Place\",\"name\":\"Hunter Region\"}],\"description\":\"Family-owned construction company delivering building maintenance, refurbishments, fit-outs, remedial and heritage works across government, commercial and residential sectors in Sydney and the Hunter region.\",\"email\":\"asv@asvcontractors.com.au\",\"legalName\":\"ASV Contractors Pty Ltd\",\"name\":\"ASV Contractors\",\"telephone\":\"+61 2 8678 6483\",\"url\":\"https://asvcontractors.com.au/\"},{\"@id\":\"https://asvcontractors.com.au/terms-and-conditions/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://asvcontractors.com.au/terms-and-conditions/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://asvcontractors.com.au/#website\"},\"name\":\"Terms and Conditions\",\"url\":\"https://asvcontractors.com.au/terms-and-conditions/\"},{\"@id\":\"https://asvcontractors.com.au/terms-and-conditions/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://asvcontractors.com.au/terms-and-conditions/\",\"name\":\"Terms and Conditions\",\"position\":2}]}]}",
       "hash": "f455b0aa14db70853e37e8676daa81de88b28bdf6e190d431579f0c9cff7ec61",
       "suppress": true,
-      "suppressionStatus": "FAIL",
+      "suppressionStatus": "PASS",
       "issueSeverity": "NONE",
       "issueCode": "NONE",
       "schemaVersion": "1.1",
@@ -489,9 +489,9 @@
         "source_references": "live-page:asvcontractors.com.au;sitemap:asvcontractors.com.au/sitemap.xml",
         "schema_version": "1.1"
       },
-      "verifiedAt": "2026-09-16T01:32:27.086Z",
-      "verifyInfo": "0 total · 0 ours · 0 stray",
-      "verifyReason": "The live page has no structured data yet, so the custom schema hasn't been built into it. This is normal for a minute or two right after Apply while the site rebuilds — wait ~1–2 min, then Purge & Refresh the site and verify again. If it still shows this, re-open Import and Apply the rows once more."
+      "verifiedAt": "2026-09-16T02:08:40.560Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     }
   ]
 }
