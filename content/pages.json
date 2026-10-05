@@ -121,8 +121,10 @@
     "status": "published",
     "createdAt": "2026-08-24T23:42:33.262Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-02T08:54:26.112Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-05T01:48:17.286Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/internal-fit-outs-3876e506.jpg",
+    "featuredImageAlt": "Residential build photo"
   },
   {
     "id": "pg-8",
