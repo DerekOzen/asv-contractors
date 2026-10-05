@@ -85,8 +85,10 @@
     "status": "published",
     "createdAt": "2026-08-24T23:42:33.262Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-02T08:54:26.112Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-05T01:47:56.003Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/government-project-e71dade5.jpg",
+    "featuredImageAlt": "Government project photo"
   },
   {
     "id": "pg-6",
