@@ -139,8 +139,10 @@
     "status": "published",
     "createdAt": "2026-08-24T23:42:33.262Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-02T08:54:26.112Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-05T01:48:31.733Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/strata-works-0f237ed8.jpg",
+    "featuredImageAlt": "Maintenance photo"
   },
   {
     "id": "pg-9",
